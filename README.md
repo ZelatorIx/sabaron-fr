@@ -1,2 +1,2 @@
 # sabaron-fr
-Ce site est piur un serveur Discord
+Ce site est pour un serveur Discord
